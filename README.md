@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me rajat.raut6224@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 rajat6224/rajat6224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
